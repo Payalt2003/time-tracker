@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "NIQ6CNxIVSe+VJNXtN0eQYaeRiGwrOl3SrYK7YsU0HE=",
+  "Source": "TimeTrackerApp",
+  "BasePath": "_content/TimeTrackerApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

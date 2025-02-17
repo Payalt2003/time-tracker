@@ -1,0 +1,14 @@
+C:\Users\Payal Thakur\source\repos\TimeTracker.DTO\bin\Debug\net8.0\TimeTracker.DTO.deps.json
+C:\Users\Payal Thakur\source\repos\TimeTracker.DTO\bin\Debug\net8.0\TimeTracker.DTO.runtimeconfig.json
+C:\Users\Payal Thakur\source\repos\TimeTracker.DTO\bin\Debug\net8.0\TimeTracker.DTO.dll
+C:\Users\Payal Thakur\source\repos\TimeTracker.DTO\bin\Debug\net8.0\TimeTracker.DTO.pdb
+C:\Users\Payal Thakur\source\repos\TimeTracker.DTO\obj\Debug\net8.0\TimeTracker.DTO.csproj.AssemblyReference.cache
+C:\Users\Payal Thakur\source\repos\TimeTracker.DTO\obj\Debug\net8.0\TimeTracker.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Payal Thakur\source\repos\TimeTracker.DTO\obj\Debug\net8.0\TimeTracker.DTO.AssemblyInfoInputs.cache
+C:\Users\Payal Thakur\source\repos\TimeTracker.DTO\obj\Debug\net8.0\TimeTracker.DTO.AssemblyInfo.cs
+C:\Users\Payal Thakur\source\repos\TimeTracker.DTO\obj\Debug\net8.0\TimeTracker.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Payal Thakur\source\repos\TimeTracker.DTO\obj\Debug\net8.0\TimeTracker.DTO.dll
+C:\Users\Payal Thakur\source\repos\TimeTracker.DTO\obj\Debug\net8.0\refint\TimeTracker.DTO.dll
+C:\Users\Payal Thakur\source\repos\TimeTracker.DTO\obj\Debug\net8.0\TimeTracker.DTO.pdb
+C:\Users\Payal Thakur\source\repos\TimeTracker.DTO\obj\Debug\net8.0\TimeTracker.DTO.genruntimeconfig.cache
+C:\Users\Payal Thakur\source\repos\TimeTracker.DTO\obj\Debug\net8.0\ref\TimeTracker.DTO.dll

@@ -1,0 +1,17 @@
+C:\Users\Payal Thakur\source\repos\TimeTracker.Service\bin\Debug\net8.0\TimeTracker.Service.deps.json
+C:\Users\Payal Thakur\source\repos\TimeTracker.Service\bin\Debug\net8.0\TimeTracker.Service.runtimeconfig.json
+C:\Users\Payal Thakur\source\repos\TimeTracker.Service\bin\Debug\net8.0\TimeTracker.Service.dll
+C:\Users\Payal Thakur\source\repos\TimeTracker.Service\bin\Debug\net8.0\TimeTracker.Service.pdb
+C:\Users\Payal Thakur\source\repos\TimeTracker.Service\bin\Debug\net8.0\TimeTracker.DTO.dll
+C:\Users\Payal Thakur\source\repos\TimeTracker.Service\bin\Debug\net8.0\TimeTracker.DTO.pdb
+C:\Users\Payal Thakur\source\repos\TimeTracker.Service\obj\Debug\net8.0\TimeTracker.Service.csproj.AssemblyReference.cache
+C:\Users\Payal Thakur\source\repos\TimeTracker.Service\obj\Debug\net8.0\TimeTracker.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Payal Thakur\source\repos\TimeTracker.Service\obj\Debug\net8.0\TimeTracker.Service.AssemblyInfoInputs.cache
+C:\Users\Payal Thakur\source\repos\TimeTracker.Service\obj\Debug\net8.0\TimeTracker.Service.AssemblyInfo.cs
+C:\Users\Payal Thakur\source\repos\TimeTracker.Service\obj\Debug\net8.0\TimeTracker.Service.csproj.CoreCompileInputs.cache
+C:\Users\Payal Thakur\source\repos\TimeTracker.Service\obj\Debug\net8.0\TimeTrac.6913BA4B.Up2Date
+C:\Users\Payal Thakur\source\repos\TimeTracker.Service\obj\Debug\net8.0\TimeTracker.Service.dll
+C:\Users\Payal Thakur\source\repos\TimeTracker.Service\obj\Debug\net8.0\refint\TimeTracker.Service.dll
+C:\Users\Payal Thakur\source\repos\TimeTracker.Service\obj\Debug\net8.0\TimeTracker.Service.pdb
+C:\Users\Payal Thakur\source\repos\TimeTracker.Service\obj\Debug\net8.0\TimeTracker.Service.genruntimeconfig.cache
+C:\Users\Payal Thakur\source\repos\TimeTracker.Service\obj\Debug\net8.0\ref\TimeTracker.Service.dll
